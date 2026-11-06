@@ -99,6 +99,6 @@ Design standards are data, not code: any country's rules can be loaded from a fi
 
 <div align="center">
 
-**Matías Rosello** · [GitHub](https://github.com/rikochet87) · rosellomatias87@gmail.com
+**Matías Roselló** · [GitHub](https://github.com/rikochet87) · rosellomatias87@gmail.com
 
 </div>
